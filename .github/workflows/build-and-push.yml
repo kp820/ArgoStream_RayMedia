@@ -9,7 +9,7 @@ permissions:
 
 env:
   AWS_REGION: ap-south-1
-  ECR_REPOSITORY: 637423294516.dkr.ecr.ap-south-1.amazonaws.com/mywebapp
+  ECR_REPOSITORY: 528757828730.dkr.ecr.ap-south-1.amazonaws.com/mywebapp
 
 jobs:
   test:
