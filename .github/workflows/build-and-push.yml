@@ -95,7 +95,7 @@ jobs:
   #         password: ${{ secrets.EMAIL_PASSWORD }}
   #         subject: " Build & Deployment Successful!"
   #         body: "The .NET application has been successfully built and pushed to AWS ECR."
-  #         to: your-email@gmail.com
-  #         from: "GitHub Actions <your-email@gmail.com>"
+  #         to: kamtakp94@gmail.com
+  #         from: "GitHub Actions kamtakp94@gmail.com>"
 
 
